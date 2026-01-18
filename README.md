@@ -2,12 +2,12 @@
 
 **Early Disk-Galaxy Formation from JWST to the Milky Way**
 
-This repository contains the website for IAU Symposium 377, held in Kuala Lumpur, Malaysia from February 6-10, 2023, with a Monsoon School from January 31 - February 4, 2023.
+This repository contains the website for IAU Symposium 377, the first-ever IAU Symposium in Malaysia, held in Kuala Lumpur from February 6-10, 2023. A pre-conference Monsoon School was also held from January 31 - February 4, 2023.
 
 ## Event Details
 
-- **Conference**: February 6-10, 2023
-- **Monsoon School**: January 31 - February 4, 2023
+- **Main Conference**: February 6-10, 2023
+- **Pre-Conference Monsoon School**: January 31 - February 4, 2023
 - **Location**: Pullman Kuala Lumpur Bangsar & Dewan Negara, Malaysia
 - **Format**: Hybrid (In-person and Virtual)
 
@@ -15,9 +15,8 @@ The first-ever IAU Symposium in Malaysia and the largest professional astronomy 
 
 ## Website
 
-- **Main Website**: https://tingyuansen.github.io/Malaysia_IAU/
-- **Main Conference**: https://tingyuansen.github.io/Malaysia_IAU/index.html
-- **Monsoon School**: https://tingyuansen.github.io/Malaysia_IAU/monsoon_school.html
+- **Conference Website**: https://tingyuansen.github.io/Malaysia_IAU/
+- **Monsoon School Page**: https://tingyuansen.github.io/Malaysia_IAU/monsoon_school.html
 
 ## Scientific Focus
 
@@ -74,14 +73,14 @@ Connecting near-field cosmology with high-redshift observations, focusing on:
 
 ## Conference Statistics
 
+- **180** Total Attendees
 - **80** Featured Speakers
 - **64** Featured Posters
-- **29** Monsoon School Students
-- **180** Total Attendees
+- **29** Monsoon School Participants
 
 ## Repository Structure
 
-- `index.html` - Main conference page
+- `index.html` - Main conference website
 - `monsoon_school.html` - Monsoon school page
 - `css/` - Stylesheets
 - `js/` - JavaScript files
