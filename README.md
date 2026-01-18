@@ -11,15 +11,24 @@ This repository contains the website for the IAU Symposium 377 Monsoon School he
 
 ## Website
 
-The live website is hosted on GitHub Pages: [https://[username].github.io/Malaysia_IAU/](https://[username].github.io/Malaysia_IAU/)
+The live website is hosted on GitHub Pages: https://tingyuansen.github.io/Malaysia_IAU/
+
+## Pages
+
+- Main conference: https://tingyuansen.github.io/Malaysia_IAU/index.html
+- Monsoon school: https://tingyuansen.github.io/Malaysia_IAU/monsoon_school.html
 
 ## Local Development
 
 To run the website locally:
 
-1. Clone this repository
-2. Open `index.html` or `monsoon_school.html` in a web browser
-3. Or use a local server:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/tingyuansen/Malaysia_IAU.git
+   cd Malaysia_IAU
+   ```
+
+2. Open `index.html` or `monsoon_school.html` in a web browser, or use a local server:
    ```bash
    # Using Python 3
    python3 -m http.server 8000
@@ -27,7 +36,8 @@ To run the website locally:
    # Using PHP
    php -S localhost:8000
    ```
-4. Navigate to `http://localhost:8000`
+
+3. Navigate to `http://localhost:8000`
 
 ## Structure
 
@@ -38,27 +48,23 @@ To run the website locally:
 - `img/` - Images and media
 - `video/` - Video files
 
-## GitHub Pages Deployment
+## Organizers
 
-This site is configured to work with GitHub Pages. To deploy:
-
-1. Push this repository to GitHub
-2. Go to repository Settings → Pages
-3. Set Source to "Deploy from a branch"
-4. Select branch: `main` (or `master`) and folder: `/ (root)`
-5. Click Save
-6. Your site will be published at `https://[username].github.io/[repository-name]/`
-
-## Credits
-
-### Organizers
+### Steering Committee Chair & LOC Co-Chair
 - Prof. Yuan-Sen Ting (Australian National University)
-- Norsyazwani Asmi (National Planetarium)
-- Fairos Asillam (Ministry of Science, Technology and Innovation of Malaysia)
-- Ahmad Najwan Zulkiplee (Universiti Malaya)
-- And many more...
 
-### Contact
+### Local Organizing Committee
+- Norsyazwani Asmi (National Planetarium) - Ground Operation Lead
+- Fairos Asillam (Ministry of Science, Technology and Innovation of Malaysia) - LOC Co-Chair
+- Ahmad Najwan Zulkiplee (Universiti Malaya) - Monsoon School Lead
+- Hidayah Ismail (Universiti Malaya) - Monsoon School Lead
+- Husna Bokhari (KU Leuven) - Public Talk Lead
+- Affan Adly Nazri (Universiti Malaya) - Logistics Lead
+- Abdul Kadir Md Jwel (Universiti Malaya) - Logistics Lead
+- Jia Wei Teh (University of Heidelberg) - Publicity Lead
+
+## Contact
+
 Email: iaus377.malaysia@gmail.com
 
 ## License
